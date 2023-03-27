@@ -9,17 +9,17 @@
  
 
 ## Skills 
-- Lenguajes: JavaScript (ES6), CSS, HTML.
+- Lenguajes: JavaScript (ES6), CSS, HTML, REACT.
 - Tecnologias: Node.js, Jest, Firebase, Git, Github.
 - Adicional: Figma, Canva,
 - Metodologia agil: SCRUM.
 
 ##  Actualmente trabajando en:
-Una libreria ejecutable con Node.js, en que podamos identificar y validar los links de un archivo Markdown usando Node.js, JavaScript y Unit Testing 👾
+Una SPA con que puedas registartre y loguearte con firebase, encargada de tomar notas diarias usando REACT y CSS  👾
 
 ## Contact
 - reyeskeixysmar@gmail.com
-- https://www.linkedin.com/in/keixysmar-reyes-8563371b0
+- https://www.linkedin.com/in/keixysmar
 
 
 [![giphy.gif](https://i.postimg.cc/W4LmVff0/giphy.gif)](https://postimg.cc/XrLBcxWv)
